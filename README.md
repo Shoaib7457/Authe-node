@@ -25,7 +25,7 @@
 
 ##### Into the project directory
 
-`cd nodejs-auth`
+`cd Authe-node`
 
 ##### Installing NPM dependencies
 
