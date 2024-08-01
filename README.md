@@ -26,7 +26,7 @@ http://serene-headland-22338.herokuapp.com/
 
 ##### Clone the latest Repository
 
-`git clone https://github.com/rahulsups/nodejs-auth.git`
+`https://github.com/Shoaib7457/Authe-node.git`
 
 ##### Into the project directory
 
